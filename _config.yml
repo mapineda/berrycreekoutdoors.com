@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: BerryCreekOutdoors
+description: Adult Onset Hunting Blog
 
-url: https://long-haul.netlify.app
+url: https://berrycreekoutdoors.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,13 +25,12 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    instagram: berrycreekoutdoor
+    twitter: berrycreektx
+    facebook: 
+    email: berrycreekoutdoors@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "G-95L8W4WX46"
 
-disqus:
-    shortname: brianmaierjr
+# disqus:
+#     shortname: brianmaierjr
