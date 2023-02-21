@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact BerryCreekOutdoors
+title: Contact Berry Creek Outdoors
 ---
 
 <div id="contact">
